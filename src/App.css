@@ -1,3 +1,7 @@
+header{
+    z-index: 100001 !important;
+}
+
 .outlineBtn{
     @apply px-4 py-2 bg-transparent border border-primary text-primary rounded hover:bg-primary hover:text-white transition-all duration-300
 }
